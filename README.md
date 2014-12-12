@@ -1,4 +1,4 @@
 Stixx
 =====
 
-Cellphone random music transfer
+Cellphone personal (And random) music transfer
